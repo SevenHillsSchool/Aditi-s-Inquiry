@@ -1,3 +1,5 @@
 # Aditi-s-Inquiry
 
 Day 1 - Since I'm still indecisive, I went and searched up for ideas for what I could with Java. I came across many interestings things, such as economic applications like an airline reservation system and management systems as well. Though I didn't really come across anything on games, I found out that Java is heavily employed in creating Android apps.
+
+Day 2 - The goals for today were to wrap up brainstorming and get deeper into research, as well as start some of the coding. The project will most likely be a simulator or a story game of some sorts. Something that I would definitely want to implement in the game is graphics, as it's something I haven't had much exposure to in Java and would be something I could learn more about through this project. For the IDE, I decided to use repl.it, as it would make it easier to work on this project from home. I will continue documentation through Schoology and Github, as well as updates on Trello. Currently, brainstorming is over, and now planning and research are in progress, and will continue on forth while the project is being coded.
