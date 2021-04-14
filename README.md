@@ -6,4 +6,4 @@ Day 2 - The goals for today were to wrap up brainstorming and get deeper into re
 
 Day 3 - Today I wanted to get going with planning, and to decide what my final project is going to be, as well as start pseudocode for the non-graphics part of the game. I have determined my project will be a zombie apocalype simulator. As previously stated, I am using repl as an ID for convenience reasons, and am working on planning the game, and continuing to research on Java graphics.
 
-Day 4 - Today was just aday t continue to work on pseudocode and just that. I'm still working on it, but it's going along pretty well. I'm not sure how long the game should be, and I don't know if adding 2D Animation graphics is a possibility. Ive started putting up some of the pseudocode on repl. 
+Day 4 - Today was just a day to continue to work on pseudocode and just that. I'm still working on it, but it's going along pretty well. I'm not sure how long the game should be, and I don't know if adding 2D Animation graphics is a possibility. I've started putting up some of the pseudocode on repl. 
