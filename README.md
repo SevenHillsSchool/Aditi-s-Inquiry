@@ -8,4 +8,6 @@ Day 3 - Today I wanted to get going with planning, and to decide what my final p
 
 Day 4 - Today was just a day to continue to work on pseudocode and just that. I'm still working on it, but it's going along pretty well. I'm not sure how long the game should be, and I don't know if adding 2D Animation graphics is a possibility. I've started putting up some of the pseudocode on repl. 
 
-Day 5 - still working on pseudocode.
+Day 5 - Still working on pseudocode.
+
+Day 6 - Working on pseudocode, started planning out how graphics will look like. Also experimenting with different graphics with Java Swing. Still using repl as an IDE.
