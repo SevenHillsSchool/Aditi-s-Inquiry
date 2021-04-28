@@ -11,3 +11,5 @@ Day 4 - Today was just a day to continue to work on pseudocode and just that. I'
 Day 5 - Still working on pseudocode.
 
 Day 6 - Working on pseudocode, started planning out how graphics will look like. Also experimenting with different graphics with Java Swing. Still using repl as an IDE.
+
+Day 7 - Put in some of the text, still no graphics yet. Trying to find a way to display text in frame and not in the console.
