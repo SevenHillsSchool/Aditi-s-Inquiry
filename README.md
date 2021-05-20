@@ -16,6 +16,8 @@ Day 7 - Put in some of the text, still no graphics yet. Trying to find a way to 
 
 Day 8 - Started putting in graphics. Might try using the JLabel method to display text in the frame.
 
+Day 9 - While the JLabel method does work, it doesn't show the entire text I want to put, so I'm trying to find a text command that can show longer strings.
+
 Program Link: https://replit.com/@AditiSinha/Inquiry#Main.java
 
 Trello Link: https://trello.com/b/LBWE2hZ3/project-evolution
